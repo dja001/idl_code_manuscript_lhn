@@ -27,6 +27,7 @@ For convenience, you may add:
 
 <code> !PATH = !PATH + ':'+EXPAND_PATH('+path/to/utils/')      </code>
 
+to an .idl_startup.pro file
 
 ## Authors
 
