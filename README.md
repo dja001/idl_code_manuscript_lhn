@@ -24,6 +24,7 @@ No installation is required. Just make sure that both directories are accessible
 For convenience, you may add:
 
 <code> !PATH = !PATH + ':'+EXPAND_PATH('+path/to/article_lhn/')</code>
+
 <code> !PATH = !PATH + ':'+EXPAND_PATH('+path/to/utils/')      </code>
 
 
