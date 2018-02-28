@@ -9,9 +9,9 @@ This repository contains all the IDL code that has been used for the manuscript 
 IDL scripts are divided into two directories. 
 
 * article_lhn contains all the code necessary for 
- * the generation of 10~km reflectivity composites 
- * the generation of scores from various forecasts
- * the generation of all figures found in the manuscript except Fig. 1.
+  * the generation of 10~km reflectivity composites 
+  * the generation of scores from various forecasts
+  * the generation of all figures found in the manuscript except Fig. 1.
 
 * utils contains multi-purpose scripts that are used by many of the routines above 
 
